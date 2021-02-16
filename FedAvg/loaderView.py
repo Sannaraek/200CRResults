@@ -11,8 +11,6 @@ import matplotlib.pyplot as plt
 import matplotlib
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import KFold
-from sklearn.model_selection import StratifiedKFold
 import time
 import os
 import hickle as hkl
@@ -81,7 +79,6 @@ if(dataSetName == 'UCI'):
     clientCount = 5
 else:
     clientCount = 15
-
 
 # In[4]:
 
