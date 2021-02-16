@@ -1,0 +1,7 @@
+Results on individual client models on their own tests,
+BestModelRound:,187
+accuracy:,0.9555
+weighted f1:,0.9557
+micro f1:,0.9555
+macro f1:,0.9581
+Training Time:,183261.71471762657

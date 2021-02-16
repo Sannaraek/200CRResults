@@ -1,0 +1,10 @@
+Server accuracy,0.7859
+Best server round:,137
+Single client accuracy:,0.9396
+Best single client Round:,139
+All client accuracy:,0.61
+Best all client Round,171
+All client F-Measure:,0.6009
+Single client F-Measure:,0.9365
+Server F-Measure:,0.7867
+Time per round:,2426.7540566921234

@@ -1,0 +1,6 @@
+Results on individual client models on their own tests,
+BestModelRound:,190
+accuracy:,0.9527
+weighted f1:,0.9529
+micro f1:,0.9527
+macro f1:,0.9546
